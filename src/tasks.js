@@ -12,5 +12,3 @@ function calculateTotal(price, quantity, customerType) {
         : subtotal;
 }
 
-// The API key comes from an environment variable,
-// e.g. process.env.API_KEY — never hard-coded.
